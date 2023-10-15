@@ -28,8 +28,8 @@ app.get('/', (req, res) => {
                 </style>
             </head>
             <body>
-                <h1>Welcome to My Express App</h1>
-                <p>This is a simple Express.js application with some styles applied.</p>
+                <h1>ISKLUTTER</h1>
+                <p>MAMA mo</p>
             </body>
         </html>
     `;
